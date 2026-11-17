@@ -1,5 +1,11 @@
 # EXPERIMENT-01: BUILDING LOGICAL CIRCUITS
 
+## NAME:Deeksha Nagarajan
+## ROLL NUMBER:RA2511030010332
+## DEPARTMENT:NWC
+
+
+
 ## 1. Aim
 
 To design, implement, simplify, and verify combinational logic circuits using Boolean algebra and digital logic gates.
