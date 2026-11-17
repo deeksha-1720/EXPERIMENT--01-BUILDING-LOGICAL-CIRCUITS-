@@ -165,6 +165,14 @@ For each circuit, record:
 The eight Boolean functions should be implemented successfully. Their outputs should match the theoretical truth tables for all input combinations.
 
 ## 8. Result
+<img width="410" height="206" alt="Screenshot 2026-11-17 151122" src="https://github.com/user-attachments/assets/9708c4d5-62b9-4b7c-97e8-8673d5f566a7" />
+<img width="409" height="209" alt="Screenshot 2026-11-17 151133" src="https://github.com/user-attachments/assets/6ec7aac9-4dc1-4643-b3e8-ba1d2c10d185" />
+<img width="410" height="186" alt="Screenshot 2026-11-17 151144" src="https://github.com/user-attachments/assets/c72467f2-8347-4859-b40b-02ff8d60a480" />
+<img width="406" height="205" alt="Screenshot 2026-11-17 151154" src="https://github.com/user-attachments/assets/efb6b086-8d66-431d-9b2b-3fdb3c6ced1b" />
+<img width="409" height="199" alt="Screenshot 2026-11-17 151204" src="https://github.com/user-attachments/assets/bd90b24d-a1af-4264-9458-1f6c5716d4e0" />
+<img width="407" height="218" alt="Screenshot 2026-11-17 151215" src="https://github.com/user-attachments/assets/4575f3a8-7ee4-4b25-800e-8db88342df64" />
+<img width="409" height="224" alt="Screenshot 2026-11-17 151224" src="https://github.com/user-attachments/assets/fbf30b69-4ace-42a3-8424-ba137cdfe40a" />
+<img width="409" height="200" alt="Screenshot 2026-11-17 151235" src="https://github.com/user-attachments/assets/41a77168-17e8-4fbf-aefd-42aac2a72552" />
 
 The logic circuits are designed, implemented, and verified using Boolean algebra and digital logic gates. The original and simplified circuits are compared based on gate count and logic depth.
 
